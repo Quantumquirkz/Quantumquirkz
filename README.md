@@ -36,13 +36,13 @@
   <a href="https://www.linkedin.com/in/jhuomar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/Quantumquirk31" target="_blank">
+  <a href="https://github.com/Quantumquirkz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  />
   </a>
   <a href="https://stackoverflow.com/users/22577162/jhuomar-barría" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
   </a>
-  <a href="https://x.com/Quantumquirk31" target="_blank">
+  <a href="https://x.com/Quantumquirkz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
   </a>
 </div>
@@ -50,14 +50,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Quantumquirk31&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Quantumquirk31&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=Quantumquirkz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Quantumquirkz&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quantumquirk31&theme=dracula&hide_border=false" height="200" alt="contribution graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quantumquirkz&theme=dracula&hide_border=false" height="200" alt="contribution graph"  />
 </div>
 
 ###
@@ -161,7 +161,7 @@ flowchart TB
 | **ML Research Models** | Physics-informed neural networks and predictive modeling for scientific applications | TensorFlow, PyTorch, NumPy, SciPy |
 | **Full-Stack Applications** | Data-driven web and mobile solutions for analytics and visualization | Django, Flask, Flutter, PostgreSQL |
 
-*Explore more projects on [GitHub](https://github.com/Quantumquirk31)*
+*Explore more projects on [GitHub](https://github.com/Quantumquirkz)*
 
 ---
 
@@ -186,10 +186,10 @@ flowchart TB
 
 <div align="center">
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Quantumquirk31&theme=graywhite&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" width="420"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quantumquirk31&theme=graywhite&hide_border=true" alt="Contribution Streak" width="420"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Quantumquirkz&theme=graywhite&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" width="420"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quantumquirkz&theme=graywhite&hide_border=true" alt="Contribution Streak" width="420"/> |
 |-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantumquirk31&theme=graywhite&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="420"/> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quantumquirk31&theme=github-light&hide_border=true" alt="Activity Graph" width="420"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantumquirkz&theme=graywhite&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="420"/> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quantumquirkz&theme=github-light&hide_border=true" alt="Activity Graph" width="420"/> |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 
 </div>
@@ -213,7 +213,7 @@ flowchart TB
 |---------|------|
 | **LinkedIn** | [linkedin.com/in/jhuomar](https://www.linkedin.com/in/jhuomar/) |
 | **Email** | jhuobarria@hackatomik.com |
-| **GitHub** | [github.com/Quantumquirk31](https://github.com/Quantumquirk31) |
+| **GitHub** | [github.com/Quantumquirkz](https://github.com/Quantumquirkz) |
 | **Stack Overflow** | [stackoverflow.com/users/22577162](https://stackoverflow.com/users/22577162/jhuomar-barría) |
 
 *Open to collaboration on data engineering, machine learning, and interdisciplinary research projects.*
