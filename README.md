@@ -1,17 +1,68 @@
+<h1 align="center">Hi, I'm Jhuomar Boskoll Barría Quintero</h1>
+
+<h3 align="center">Computer and Systems Engineer | Data Engineer | Machine & Deep Learning | Research Scientist</h3>
+
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="50" alt="kafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+</div>
 
-# Jhuomar Boskoll Barría Quintero
+###
 
-**Computer and Systems Engineer | Data Engineer | Machine & Deep Learning | Research Scientist | Physics Enthusiast**
+<div align="center">
+  <a href="https://www.linkedin.com/in/jhuomar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/Quantumquirk31" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/22577162/jhuomar-barría" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://x.com/Quantumquirk31" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhuomar/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Quantumquirk31)
-[![Email](https://img.shields.io/badge/Email-jhuobarria%40hackatomik.com-666666?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:jhuobarria@hackatomik.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22577162/jhuomar-barría)
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Quantumquirk31&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Quantumquirk31&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quantumquirk31&theme=dracula&hide_border=false" height="200" alt="contribution graph"  />
+</div>
+
+###
 
 *Bridging computational intelligence and physical systems through data-driven innovation*
-
-</div>
 
 ---
 
