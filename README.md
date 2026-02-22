@@ -1,92 +1,24 @@
-<div align="center">
+# 💫 About Me:
+As a self-taught and motivated individual, I have cultivated a solid foundation in multiple areas of science and technology, with a strong focus on programming, engineering, and research. I am proficient in programming languages such as Python, Arduino IDE, MakeBlock, and Scratch, and possess intermediate experience in C and C++. My main area of interest lies in object-oriented programming and its applications in automation and intelligent systems.<br><br>Beyond software development, I have a deep understanding of Mathematics, Physics, and Electronics, with hands-on experience in circuit design, fabrication, and soldering. My passion for Robotics extends from programming to the mechanical and electronic construction of functional prototypes, combining creativity with technical precision.<br><br>I am deeply committed to scientific communication and education. I enjoy sharing and discussing the latest advancements in science and technology, with the goal of making complex concepts accessible to diverse audiences. I believe in the power of education and outreach to inspire curiosity and drive innovation in others.<br><br>Driven by curiosity and a strong research mindset, I continuously seek to expand my knowledge and apply it to real-world challenges. Whether through collaborative projects, tutoring, or scientific dissemination, my mission is to promote learning, innovation, and critical thinking among emerging generations of technologists and researchers.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=800&color=BD93F9&center=true&vCenter=true&width=500&lines=Jhuomar+Boskoll+Barr%C3%ADa+Quintero;Data+Engineer+%7C+ML+%26+DL+%7C+Research+Scientist)](https://git.io/typing-svg)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quantum.quirkz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhuomar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Quantumquirkz)
 
-*Bridging computational intelligence and physical systems*
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Quantumquirkz&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Quantumquirkz&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Quantumquirkz&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,docker,postgres,mysql,mongodb,kafka,django,flask,git,aws,linux" height="44" alt="tech stack" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Quantumquirkz&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
-<br/>
-
-<a href="https://www.linkedin.com/in/jhuomar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Quantumquirkz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://stackoverflow.com/users/22577162/jhuomar-barría"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
-<a href="mailto:jhuobarria@hackatomik.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Quantumquirkz&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true" width="48%" alt="stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Quantumquirkz&theme=dracula&hide_border=true" width="48%" alt="streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantumquirkz&theme=dracula&hide_border=true&layout=compact&langs_count=6" width="48%" alt="languages"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Quantumquirkz&theme=dracula&no-frame=true&column=4&margin-w=4&margin-h=4" width="48%" alt="trophies"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Quantumquirkz&theme=dracula&hide_border=true&area=true" width="100%" alt="contribution graph"/>
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Quantumquirkz&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Quantumquirkz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## About
-
-I build scalable data infrastructure, ML/DL pipelines, and conduct research at the intersection of AI and physics. Focus: production ETL systems, predictive modeling, and physics-informed neural networks.
-
----
-
-## Experience & Achievements
-
-| Role | Focus |
-|------|-------|
-| **Data Engineer** | ETL pipelines (Spark, Kafka, Airflow), real-time streaming, data warehousing |
-| **ML Research Scientist** | Predictive models (TensorFlow, PyTorch), PINNs, production deployment |
-| **Systems Engineer** | Distributed architecture, full-stack solutions (Django, Flask) |
-
-**Highlights:** Scalable data pipelines for real-time analytics | ML models in research & production | Interdisciplinary work in computational physics & PINNs
-
----
-
-## Expertise
-
-```mermaid
-pie showData
-    title Focus Areas
-    "Data Engineering" : 30
-    "Machine Learning & DL" : 35
-    "Systems & Infrastructure" : 20
-    "Full-Stack" : 15
-```
-
-| Domain | Stack |
-|--------|-------|
-| Data | Spark, Kafka, Airflow, Hadoop |
-| ML/DL | TensorFlow, PyTorch, scikit-learn, OpenCV |
-| Backend | Python, Django, Flask |
-| Data Stores | PostgreSQL, MySQL, MongoDB, Firebase |
-
----
-
-## Research Interests
-
-Physics-Informed Neural Networks (PINNs) · Scalable data systems · Deep learning optimization · Computational physics · Quantum computing principles
-
----
-
-## Projects
-
-| Project | Stack |
-|---------|-------|
-| Data Pipeline Architecture | Spark, Kafka, Airflow, Python |
-| ML Research Models | TensorFlow, PyTorch, NumPy, SciPy |
-| Full-Stack Applications | Django, Flask, Flutter, PostgreSQL |
-
-[View all on GitHub](https://github.com/Quantumquirkz)
-
----
-
-## Contact
-
-**jhuobarria@hackatomik.com** · [LinkedIn](https://www.linkedin.com/in/jhuomar/) · Open to collaboration on data engineering, ML, and interdisciplinary research
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
